@@ -66,6 +66,7 @@ ORDER BY dept_name;
 -- +------------+-----------+
 -- | Tokuyasu   | Pesch     |
 -- +------------+-----------+
+
 SELECT first_name, last_name
 FROM employees
 WHERE emp_no IN (
